@@ -22,9 +22,8 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
   </div>
 
   <div class="project-card">
-    <h3>Project 3 Title</h3>
-    <p>Coming soon.</p>
+    <img src="/images/Task 2.jpg" alt="Weighted suitability map for candidate new school sites, scored on a 1-10 scale">
+    <h3>School Site Suitability Analysis</h3>
+    <p>Performed a school-site suitability analysis by comparing two GIS approaches — a binary Boolean overlay of distance-to-school, distance-to-recreation-site, slope, and land use, versus a weighted suitability model that reclassified those same factors on a 1–10 scale and combined them. Both methods converged on similar high-suitability zones, but the weighted model captured more nuance by scoring the full spectrum of the study area instead of a strict true/false cutoff.</p>
     <a href="/projects.html">View Project →</a>
   </div>
-
-</div>
