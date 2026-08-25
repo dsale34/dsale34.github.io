@@ -7,7 +7,7 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
 <div class="project-grid">
 
     <div class="project-card">
-    <img src="/images/KMeans-Map.png" alt="K-means cluster map of DuPage County census tracts by home value and park area">
+    <img src="/images/KMeansMap.png" alt="K-means cluster map of DuPage County census tracts by home value and park area">
     <h3>Do Parks Raise Home Values?</h3>
     <p>Investigated whether proximity to parks affects home values across DuPage County, IL by spatially joining park and housing datasets in Python and testing for clustering with Local Moran's I and K-means. The analysis showed home values do cluster geographically, but park area alone doesn't explain those patterns — suggesting other factors (like school quality or density) likely play a bigger role.</p>
     <a href="/projects.html">View Project →</a>
