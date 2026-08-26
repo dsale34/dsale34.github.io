@@ -62,4 +62,8 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
       <span class="tag">geopandas</span>
       <span class="tag">pandas / NumPy</span>
       <span class="tag">scikit-learn</span>
-      <span
+      <span class="tag">esda / libpysal</span>
+    </div>
+  </div>
+
+</div>
