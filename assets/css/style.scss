@@ -50,12 +50,19 @@
   box-shadow: none;
 }
 
+.skills-section {
+  background-color: #2a2a2a;
+  border: 1px solid #3d3d3d;
+  border-radius: 6px;
+  padding: 30px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
 .skills-columns {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 30px;
-  margin-top: 20px;
-  margin-bottom: 40px;
 }
 
 .skill-column h3 {
@@ -71,8 +78,8 @@
 }
 
 .tag {
-  background-color: #2a2a2a;
-  border: 1px solid #3d3d3d;
+  background-color: #373737;
+  border: 1px solid #4a4a4a;
   border-radius: 20px;
   padding: 6px 14px;
   font-size: 0.85em;
