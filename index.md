@@ -36,8 +36,6 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
 
   <div class="skill-column">
     <h3>GIS Software</h3>
-  <div class="skill-column">
-    <h3>GIS Software</h3>
     <div class="tag-list">
       <span class="tag">ArcGIS Pro</span>
       <span class="tag">ArcGIS Online</span>
