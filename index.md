@@ -31,8 +31,11 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
 
 ## Skills
 
+<div class="skills-section">
 <div class="skills-columns">
 
+  <div class="skill-column">
+    <h3>GIS Software</h3>
   <div class="skill-column">
     <h3>GIS Software</h3>
     <div class="tag-list">
