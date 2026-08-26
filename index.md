@@ -28,3 +28,38 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
   </div>
 
 </div>
+
+## Skills
+
+<div class="skills-columns">
+
+  <div class="skill-column">
+    <h3>GIS Software</h3>
+    <div class="tag-list">
+      <span class="tag">ArcGIS Pro</span>
+      <span class="tag">ArcGIS Online</span>
+      <span class="tag">OpenStreetMap (HOT Tasking Manager)</span>
+    </div>
+  </div>
+
+  <div class="skill-column">
+    <h3>Spatial Analysis</h3>
+    <div class="tag-list">
+      <span class="tag">Kernel Density Estimation</span>
+      <span class="tag">Hot Spot Analysis</span>
+      <span class="tag">Local Moran's I</span>
+      <span class="tag">Network & Service Area Analysis</span>
+      <span class="tag">Weighted Overlay</span>
+      <span class="tag">Raster Analysis</span>
+      <span class="tag">Digitizing from Satellite Imagery</span>
+    </div>
+  </div>
+
+  <div class="skill-column">
+    <h3>Programming & Data</h3>
+    <div class="tag-list">
+      <span class="tag">Python</span>
+      <span class="tag">geopandas</span>
+      <span class="tag">pandas / NumPy</span>
+      <span class="tag">scikit-learn</span>
+      <span
