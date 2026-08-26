@@ -14,9 +14,9 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
   </div>
 
   <div class="project-card">
-    <img src="/images/Geo444FinalPortfoliocrop2.jpg" alt="Map of CAL FIRE service area coverage versus high-risk wildfire zones in California">
+    <img src="/images/444Portfolio.jpg" alt="Kernel density map showing the intensity of historic wildfires across California, with darker red indicating higher burn intensity">
     <h3>Wildland Fire Risk & Response Coverage</h3>
-    <p>Analyzed historic wildfire patterns across California using kernel density estimation and optimized hot spot analysis to define high-risk fire zones, then ran a network-based service area analysis to test whether CAL FIRE facilities could reach those zones within a one-hour drive. Found that while about 69% of modeled risk points fell inside that service area, most of the gap was in remote or high-elevation terrain better suited to aerial response — suggesting CAL FIRE's ground infrastructure is well-positioned overall.</p>
+    <p>Analyzed historic wildfire patterns across California using kernel density estimation and optimized hot spot analysis to define high-risk fire zones, then ran a network-based service area analysis to test whether CAL FIRE facilities could reach those zones within a one-hour drive. Found that while about 69% of modeled risk points fell inside that service area, most of the gap was in remote or high-elevation terrain better suited to aerial response, suggesting CAL FIRE's ground infrastructure is well-positioned overall.</p>
     <a href="/projects.html">View Project →</a>
   </div>
 
