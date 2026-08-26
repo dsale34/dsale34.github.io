@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.inner {
+  max-width: 900px;
+}
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -41,4 +45,7 @@
   object-fit: cover;
   border-radius: 4px;
   margin-bottom: 12px;
+  padding: 0;
+  border: none;
+  box-shadow: none;
 }
