@@ -14,14 +14,14 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
   </div>
 
   <div class="project-card">
-    <img src="/images/Service%20Area%20Layout.jpg" alt="Map of CAL FIRE service area coverage versus high-risk wildfire zones in California">
+    <img src="/images/Geo44FinalPortfoliocrop.jpg" alt="Map of CAL FIRE service area coverage versus high-risk wildfire zones in California">
     <h3>Wildland Fire Risk & Response Coverage</h3>
     <p>Analyzed historic wildfire patterns across California using kernel density estimation and optimized hot spot analysis to define high-risk fire zones, then ran a network-based service area analysis to test whether CAL FIRE facilities could reach those zones within a one-hour drive. Found that while about 69% of modeled risk points fell inside that service area, most of the gap was in remote or high-elevation terrain better suited to aerial response — suggesting CAL FIRE's ground infrastructure is well-positioned overall.</p>
     <a href="/projects.html">View Project →</a>
   </div>
 
   <div class="project-card">
-    <img src="/images/Task%202.jpg" alt="Weighted suitability map for candidate new school sites, scored on a 1-10 scale">
+    <img src="/images/HW1PortfolioCrop.jpg" alt="Weighted suitability map for candidate new school sites, scored on a 1-10 scale">
     <h3>School Site Suitability Analysis</h3>
     <p>Performed a school-site suitability analysis by comparing two GIS approaches — a binary Boolean overlay of distance-to-school, distance-to-recreation-site, slope, and land use, versus a weighted suitability model that reclassified those same factors on a 1–10 scale and combined them. Both methods converged on similar high-suitability zones, but the weighted model captured more nuance by scoring the full spectrum of the study area instead of a strict true/false cutoff.</p>
     <a href="/projects.html">View Project →</a>
