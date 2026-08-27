@@ -75,7 +75,7 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
 
   <div class="experience-entry">
     <div class="experience-header">
-      <img src="/images/leaftrade-logo.png" alt="Leaf Trade logo" class="experience-logo">
+      <img src="/images/LTLogo.png" alt="Leaf Trade logo" class="experience-logo">
       <h3>Leaf Trade</h3>
       <p class="role">Marketing Coordinator</p>
       <p class="meta">Jun 2022 – Feb 2025 · Chicago, IL</p>
@@ -91,7 +91,7 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
 
   <div class="experience-entry">
     <div class="experience-header">
-      <img src="/images/hot-logo.png" alt="Humanitarian OpenStreetMap Team logo" class="experience-logo">
+      <img src="/images/HOTLogo.png" alt="Humanitarian OpenStreetMap Team logo" class="experience-logo">
       <h3>Humanitarian OpenStreetMap Team</h3>
       <p class="role">Volunteer Mapper</p>
       <p class="meta">Oct 2025 – Present · Remote</p>
@@ -111,7 +111,7 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
 
   <div class="experience-entry">
     <div class="experience-header">
-      <img src="/images/depaul-logo.png" alt="DePaul University logo" class="experience-logo">
+      <img src="/images/DepaulLogo.png" alt="DePaul University logo" class="experience-logo">
       <h3>DePaul University</h3>
       <p class="role">Graduate Certificate in GIS</p>
       <p class="meta">Jan 2026 – Present · Chicago, IL</p>
@@ -126,7 +126,7 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
 
   <div class="experience-entry">
     <div class="experience-header">
-      <img src="/images/temple-logo.png" alt="Temple University logo" class="experience-logo">
+      <img src="/images/TempleLogo.png" alt="Temple University logo" class="experience-logo">
       <h3>Temple University</h3>
       <p class="role">B.A. in Advertising</p>
       <p class="meta">May 2022 · Philadelphia, PA</p>
