@@ -68,3 +68,76 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
   </div>
 
 </div>
+
+## Experience
+
+<div class="experience-list">
+
+  <div class="experience-entry">
+    <div class="experience-header">
+      <img src="/images/leaftrade-logo.png" alt="Leaf Trade logo" class="experience-logo">
+      <h3>Leaf Trade</h3>
+      <p class="role">Marketing Coordinator</p>
+      <p class="meta">Jun 2022 – Feb 2025 · Chicago, IL</p>
+    </div>
+    <div class="experience-details">
+      <ul>
+        <li>Coordinated multi-phase advertising campaigns across 12 state markets, managing timelines, dependencies, and stakeholder communication</li>
+        <li>Collected, cleaned, and synthesized advertising performance data into monthly reports, translating quantitative findings into presentations for technical and non-technical audiences</li>
+        <li>Evaluated and improved internal workflows through structured assessment and stakeholder feedback</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="experience-entry">
+    <div class="experience-header">
+      <img src="/images/hot-logo.png" alt="Humanitarian OpenStreetMap Team logo" class="experience-logo">
+      <h3>Humanitarian OpenStreetMap Team</h3>
+      <p class="role">Volunteer Mapper</p>
+      <p class="meta">Oct 2025 – Present · Remote</p>
+    </div>
+    <div class="experience-details">
+      <ul>
+        <li>Digitized building footprints and road networks from satellite imagery using the HOT Tasking Manager, supporting humanitarian and community-focused mapping projects</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+## Education
+
+<div class="experience-list">
+
+  <div class="experience-entry">
+    <div class="experience-header">
+      <img src="/images/depaul-logo.png" alt="DePaul University logo" class="experience-logo">
+      <h3>DePaul University</h3>
+      <p class="role">Graduate Certificate in GIS</p>
+      <p class="meta">Jan 2026 – Present · Chicago, IL</p>
+    </div>
+    <div class="experience-details">
+      <ul>
+        <li>Completed: GIS for Community Development</li>
+        <li>In progress: Spatial Data Science, Spatial Data Analysis</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="experience-entry">
+    <div class="experience-header">
+      <img src="/images/temple-logo.png" alt="Temple University logo" class="experience-logo">
+      <h3>Temple University</h3>
+      <p class="role">B.A. in Advertising</p>
+      <p class="meta">May 2022 · Philadelphia, PA</p>
+    </div>
+    <div class="experience-details">
+      <ul>
+        <li>Magna Cum Laude, Dean's List (5 semesters)</li>
+        <li>Minor in Sports Management</li>
+        <li>Studied at Temple University Rome, Spring 2022</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
