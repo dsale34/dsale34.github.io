@@ -74,14 +74,14 @@
 .tag-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 12px;
 }
 
 .tag {
   background-color: #373737;
   border: 1px solid #4a4a4a;
   border-radius: 20px;
-  padding: 6px 14px;
-  font-size: 0.85em;
+  padding: 8px 16px;
+  font-size: 0.9em;
   color: #cfcfcf;
 }
