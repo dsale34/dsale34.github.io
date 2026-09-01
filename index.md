@@ -120,8 +120,8 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
     </div>
     <div class="experience-details">
       <ul>
-        <li>Completed: GIS for Community Development</li>
-        <li>In progress: Spatial Data Science, Spatial Data Analysis</li>
+        <li>Completed: GIS for Community Development, Spatial Data Science, Spatial Data Analysis</li>
+        <li>In progress: GIS For Sustainable Urban Development</li>
       </ul>
     </div>
   </div>
