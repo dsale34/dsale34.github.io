@@ -155,18 +155,18 @@
   margin-bottom: 8px;
 }
 
-.main_content_wrap {
+#main_content_wrap {
   background: linear-gradient(180deg, #f7f7f7 0%, #eeeeee 100%);
 }
 
 .site-nav {
   margin-top: 15px;
+  text-align: right;
 }
 
 .site-nav a {
   color: #ffffff;
-  margin-top: 15px;
-  text-align: right:
+  margin-right: 20px;
   font-weight: bold;
   text-decoration: none;
   border-bottom: 2px solid transparent;
