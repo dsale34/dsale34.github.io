@@ -69,40 +69,6 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
 
 </div>
 
-## Experience
-
-<div class="experience-list">
-
-  <div class="experience-entry">
-    <div class="experience-header">
-      <img src="/images/LTLogo.png" alt="Leaf Trade logo" class="experience-logo">
-      <h3>Leaf Trade</h3>
-      <p class="role">Marketing Coordinator</p>
-      <p class="meta">Jun 2022 – Feb 2025 · Chicago, IL</p>
-    </div>
-    <div class="experience-details">
-      <ul>
-        <li>Coordinated multi-phase advertising campaigns across 12 state markets, managing timelines, dependencies, and stakeholder communication</li>
-        <li>Collected, cleaned, and synthesized advertising performance data into monthly reports, translating quantitative findings into presentations for technical and non-technical audiences</li>
-        <li>Evaluated and improved internal workflows through structured assessment and stakeholder feedback</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="experience-entry">
-    <div class="experience-header">
-      <img src="/images/HOTLogo.png" alt="Humanitarian OpenStreetMap Team logo" class="experience-logo">
-      <h3>Humanitarian OpenStreetMap Team</h3>
-      <p class="role">Volunteer Mapper</p>
-      <p class="meta">Oct 2025 – Present · Remote</p>
-    </div>
-    <div class="experience-details">
-      <ul>
-        <li>Digitized building footprints and road networks from satellite imagery using the HOT Tasking Manager, supporting humanitarian and community-focused mapping projects</li>
-      </ul>
-    </div>
-  </div>
-
 </div>
 
 ## Experience
