@@ -21,7 +21,7 @@ This project tested whether census tracts in DuPage County, IL with more park ar
 I combined three datasets: DuPage County census tract boundaries, a county parks shapefile, and 5-year (2020–2024) median home value estimates from the U.S. Census Bureau. I used a geometric overlay to intersect park polygons with census tracts, then summed park acreage by tract to get total park area per tract. 
 
 <div class="project-figure">
-  <img src="/images/HomeValueLocalMorans" alt="Local Moran's I map of DuPage County census tracts by home value">
+  <img src="/images/HomeValueLocalMorans.png" alt="Local Moran's I map of DuPage County census tracts by home value">
   <p class="figcaption">Local Moran's I map of DuPage County census tracts by home value</p>
 </div>
 
