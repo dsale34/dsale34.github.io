@@ -21,14 +21,14 @@ This project explored potential locations for a new school by comparing two GIS 
 I used ArcGIS Pro to develop two raster-based suitability models using school and recreation site locations, elevation data, and land-use constraints. The first model applied binary logic to identify land that met all specified criteria, including distance from existing schools, proximity to recreation sites, and slope.
 
 <div class="project-figure">
-  <img src="/images/444HW1Task1.pdf" alt="Binary suitability map showing land meeting all school site criteria">
+  <img src="/images/444HW1Task1.png" alt="Binary suitability map showing land meeting all school site criteria">
   <p class="figcaption">Binary suitability model — land meeting every threshold for distance from schools, proximity to recreation sites, and slope.</p>
 </div>
 
 The second model used the Reclassify and Weighted Sum tools to score locations on a 1–10 suitability scale, assigning equal weights to distance from schools, proximity to recreation sites, and slope.
 
 <div class="project-figure">
-  <img src="/images/444HW1Task2.pdf" alt="Weighted suitability map for candidate new school sites, scored on a 1-10 scale">
+  <img src="/images/444HW1Task2.png" alt="Weighted suitability map for candidate new school sites, scored on a 1-10 scale">
   <p class="figcaption">Weighted suitability model — every cell scored 1–10 based on combined criteria.</p>
 </div>
 
