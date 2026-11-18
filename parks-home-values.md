@@ -18,7 +18,14 @@ title: Do Parks Raise Home Values?
 
 This project tested whether census tracts in DuPage County, IL with more park area tend to have higher median home values than tracts with less park access — a question motivated by the idea that proximity to park resources could be reflected in local property values.
 
-I combined three datasets: DuPage County census tract boundaries, a county parks shapefile, and 5-year (2020–2024) median home value estimates from the U.S. Census Bureau. I used a geometric overlay to intersect park polygons with census tracts, then summed park acreage by tract to get total park area per tract. To test for spatial clustering in home values, I built a queen's contiguity spatial weights matrix and ran a Local Moran's I with 99 permutations to identify statistically significant high- and low-value clusters. Then, I ran K-means clustering (k=5) on park area and median home value together to see whether tracts naturally grouped by both variables at once.
+I combined three datasets: DuPage County census tract boundaries, a county parks shapefile, and 5-year (2020–2024) median home value estimates from the U.S. Census Bureau. I used a geometric overlay to intersect park polygons with census tracts, then summed park acreage by tract to get total park area per tract. 
+
+<div class="project-figure">
+  <img src="/images/HomeValueLocalMorans" alt="Local Moran's I map of DuPage County census tracts by home value">
+  <p class="figcaption">Local Moran's I map of DuPage County census tracts by home value</p>
+</div>
+
+To test for spatial clustering in home values, I built a queen's contiguity spatial weights matrix and ran a Local Moran's I with 99 permutations to identify statistically significant high- and low-value clusters. Then, I ran K-means clustering (k=5) on park area and median home value together to see whether tracts naturally grouped by both variables at once.
 
 <div class="project-figure">
   <img src="/images/KMeansMap.png" alt="K-means cluster map of DuPage County census tracts by home value and park area">
