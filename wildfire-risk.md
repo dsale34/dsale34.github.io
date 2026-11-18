@@ -21,7 +21,7 @@ This project explored the spatial patterns of California's wildland fires to ans
 I sourced wildfire perimeter data from the Wildland Fire Interagency Geospatial Services portal and CAL FIRE facility data from the SCAG open data portal. To identify high-risk zones, I ran a Kernel Density Estimation and an Optimized Hot Spot Analysis to detect statistically significant clusters of historic wildfire activity.
 
 <div class="project-figure">
-  <img src="/images/fire-kde-intensity.png" alt="Kernel density map showing the intensity of historic wildfires across California">
+  <img src="/images/444Portfolio.jpg" alt="Kernel density map showing the intensity of historic wildfires across California">
   <p class="figcaption">Kernel density estimation showing the concentration of historic wildfire activity across California.</p>
 </div>
 
