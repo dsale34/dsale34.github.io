@@ -118,15 +118,16 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
       <p class="role">Graduate Certificate in GIS</p>
       <p class="meta">Jan 2026 – Nov 2026 · Chicago, IL</p>
     </div>
-   <div class="experience-details">
-  <p class="courses-label">Courses Completed:</p>
-  <ul>
-    <li>GIS for Community Development</li>
-    <li>Spatial Data Science</li>
-    <li>Spatial Data Analysis</li>
-    <li>GIS For Sustainable Urban Development</li>
-  </ul>
-</div>
+    <div class="experience-details">
+      <p class="courses-label">Courses Completed:</p>
+      <ul>
+        <li>GIS for Community Development</li>
+        <li>Spatial Data Science</li>
+        <li>Spatial Data Analysis</li>
+        <li>GIS For Sustainable Urban Development</li>
+      </ul>
+    </div>
+  </div>
 
   <div class="experience-entry">
     <div class="experience-header">
