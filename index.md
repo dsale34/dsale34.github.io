@@ -116,12 +116,11 @@ I'm a GIS analyst passionate about mapping spatial patterns and communicating da
       <img src="/images/DepaulLogo.png" alt="DePaul University logo" class="experience-logo">
       <h3>DePaul University</h3>
       <p class="role">Graduate Certificate in GIS</p>
-      <p class="meta">Jan 2026 – Present · Chicago, IL</p>
+      <p class="meta">Jan 2026 – Nov 2026 · Chicago, IL</p>
     </div>
     <div class="experience-details">
       <ul>
-        <li>Completed: GIS for Community Development, Spatial Data Science, Spatial Data Analysis</li>
-        <li>In progress: GIS For Sustainable Urban Development</li>
+        <li>Completed: GIS for Community Development, Spatial Data Science, Spatial Data Analysis, GIS For Sustainable Urban Development</li>
       </ul>
     </div>
   </div>
